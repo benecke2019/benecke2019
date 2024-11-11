@@ -1,5 +1,7 @@
 # An Ju-Young 🥃
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Benecke&fontSize=90)
+
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbenecke2019&count_bg=%23D35E00&title_bg=%2300B02B&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fred1230)](https://solved.ac/fred1230/)
