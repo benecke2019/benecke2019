@@ -11,9 +11,11 @@
 
 ## Education
 * 2019.03 ~ 2025.02 Undergraduate Student, [Sogang University](https://www.sogang.ac.kr/ko/home)
+* 2025.03 ~         Master's degree, [Korea Univeristy SAL](https://prl.korea.ac.kr/)
 
 ## Positions
-* 2023.12 ~ Undergraduate Research Student, ISLAB in Sogang University
+* 2023.12 ~ 2025.01 Undergraduate Research Student, ISLAB in Sogang University
+* 2025.02 ~         Master's degree, SAL in Korea University
 
 # Skills
 ### Lang. ⌨️
