@@ -4,9 +4,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=benecke2019&show_icons=tru&theme=radical)
 ![snake gif](https://github.com/benecke2019/benecke2019/blob/output/github-contribution-grid-snake.svg)
 
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbenecke2019&count_bg=%23D35E00&title_bg=%2300B02B&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fred1230)](https://solved.ac/fred1230/)
 
 ## Education
