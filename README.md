@@ -1,7 +1,7 @@
 # An Ju-Young 🥃
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=200&section=header&text=JuYoung%20An&fontColor=fcba03&fontSize=90&fontAlign=62&fontAlignY=32&desc=SAL&descSize=25&descAlign=85&descAlignY=50)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=benecke2019&show_icons=tru&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=benecke2019&show_icons=true&theme=radical)
 ![snake gif](https://github.com/benecke2019/benecke2019/blob/output/github-contribution-grid-snake.svg)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fred1230)](https://solved.ac/fred1230/)
